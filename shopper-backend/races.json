@@ -1,0 +1,50 @@
+[
+  {
+    "customer_id": "1",
+    "origin": "rua leo augusto petry, 305",
+    "destination": "continente shopping",
+    "distance": 2590,
+    "duration": "447s",
+    "driver": {
+      "id": 1,
+      "name": "Homer Simpson"
+    },
+    "value": 6.475
+  },
+  {
+    "customer_id": "1",
+    "origin": "rua leo augusto petry, 305",
+    "destination": "continente shopping",
+    "distance": 2590,
+    "duration": "447s",
+    "driver": {
+      "id": 1,
+      "name": "Homer Simpson"
+    },
+    "value": 6.475
+  },
+  {
+    "customer_id": "1",
+    "origin": "rua leo augusto petry, 305",
+    "destination": "campeche, sc",
+    "distance": 23397,
+    "duration": "1675s",
+    "driver": {
+      "id": 1,
+      "name": "Homer Simpson"
+    },
+    "value": 58.49249999999999
+  },
+  {
+    "customer_id": "1",
+    "origin": "rua leo augusto petry, 305",
+    "destination": "campeche, sc",
+    "distance": 23397,
+    "duration": "1675s",
+    "driver": {
+      "id": 3,
+      "name": "James Bond"
+    },
+    "value": 233.96999999999997
+  }
+]
